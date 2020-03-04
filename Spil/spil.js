@@ -1,4 +1,3 @@
-alert("det virker")
 total = 0
 function spil() {
   ok = true
